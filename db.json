@@ -2,6 +2,6 @@
   "sales": [
     { "id": 1, "userID": 11, "title": "1999 Honda Accord", "price": 1000, "description": "very nice used car", "condition": "good" },
     { "id": 2, "userID": 22, "title": "Baseball Bat", "price": 50, "description": "Lousville Slugger", "condition": "very good" },
-    { "id": 3, "userID": 33, "title": "Kawasaki Motorcycle", "price": 4999, "description": "Needs work", "condition": "poor" },
+    { "id": 3, "userID": 33, "title": "Kawasaki Motorcycle", "price": 4999, "description": "Needs work", "condition": "poor" }
   ]
 }
